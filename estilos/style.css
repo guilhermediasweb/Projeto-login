@@ -54,3 +54,12 @@ section#login > div#form{
 
 }
 
+div#form > h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#form > p{
+    font-size: 0.8em;
+}
+

@@ -18,6 +18,11 @@
         float: right;
         width: 70%;
     }
+
+    #form > p{
+        font-size: 1.2em;
+    }
+    
     
 }
 
@@ -30,14 +35,18 @@
     }
 
     section#login > div#imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     #login > #form{
-        float: right;
+        float: left;
         width: 50%;
+    }
+    
+    #form > p{
+        font-size: 1.2em;
     }
     
 }
